@@ -10,19 +10,33 @@
     -useRef Hook
     -Firebase Setup
     -Deploying our app to production
-    -Create SignUp User Account 
+    -Create SignUp User Account
     -Implement Sign In user Api
     -Created Redux Store eith userSlice
     -Implemented SignOut
-    
+    -Fetch from TMDB Movies
+    -Update Profile
+    -Bugfix: Signup user displayName and profile picture update
+    -BugFix: If the user is not logged in Redirect /browse to Login Page and vice versa
+    -Unsubscribed to the onAuthStateChange callBack
+    -Add hardcoded values to constants file
+    -Register TMDB and create an app and get acess token
+    -Get data from TMDB Now Playing Movies List API
+    - Custom Hook for noe playing movies
+    - Update the store with movies data
+    - Planning for main container and secondary container
+    - Fetch data for trailer video
+    - update store with trailer video data
+    - Embedded the youtube video and make it autoplay and mute
+    - Tailwind Classes to make Main Container look awsome
+    - Build Secondary Component
 
+# Features
 
-
-# Features 
-    -Login/Sign Up  
+    -Login/Sign Up
         -Login/SignUp Form
         -redirect to Browse Page
-    -Browse 
+    -Browse
         -Header
         -Main - Movie
             -Trailer in Background
