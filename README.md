@@ -22,7 +22,7 @@
     -Add hardcoded values to constants file
     -Register TMDB and create an app and get acess token
     -Get data from TMDB Now Playing Movies List API
-    - Custom Hook for noe playing movies
+    - Custom Hook for now playing movies
     - Update the store with movies data
     - Planning for main container and secondary container
     - Fetch data for trailer video
